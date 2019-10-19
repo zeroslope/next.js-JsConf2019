@@ -1,0 +1,122 @@
+.ant-tree.ant-tree-show-line.hide-file-icon li span.ant-tree-switcher-noop {
+  background: transparent;
+}
+
+.ant-tree.ant-tree-show-line.hide-file-icon li:before {
+  content: " ";
+  width: 1px;
+  border-left: 1px solid #d9d9d9;
+  height: 100%;
+  position: absolute;
+  left: 12px;
+  top: 0;
+  margin: 0;
+  z-index: 1;
+}
+
+.ant-tree.ant-tree-show-line.hide-file-icon li:first-child:before {
+  top: 6px;
+  height: calc(100% - 6px);
+}
+
+.ant-tree.ant-tree-show-line.hide-file-icon li:last-child:before {
+  height: 16px;
+}
+
+.ant-tree.ant-tree-show-line.hide-file-icon li:first-child:last-child:before {
+  height: 10px;
+}
+
+.ant-tree.ant-tree-show-line.hide-file-icon li .ant-tree-switcher-noop > i {
+  visibility: hidden;
+}
+
+.ant-tree.ant-tree-show-line.hide-file-icon li .ant-tree-switcher-noop:after {
+  content: " ";
+  height: 1px;
+  border-bottom: 1px solid #d9d9d9;
+  width: 10px;
+  position: absolute;
+  left: 12px;
+  top: 50%;
+  margin: 0;
+  z-index: 1;
+}
+
+.ant-tree.ant-tree-directory > li.ant-tree-treenode-selected > span.ant-tree-switcher,
+.ant-tree.ant-tree-directory .ant-tree-child-tree > li.ant-tree-treenode-selected > span.ant-tree-switcher {
+  color: rgba(0, 0, 0, 0.45);
+}
+
+.ant-tree.ant-tree-directory > li span.ant-tree-node-content-wrapper::before, .ant-tree.ant-tree-directory .ant-tree-child-tree > li span.ant-tree-node-content-wrapper::before {
+  position: absolute;
+  right: 0;
+  left: 24px !important;
+  height: 24px;
+  transition: all 0.3s;
+  content: '';
+}
+
+.main {
+  width: 980px;
+  padding: 0 16px;
+  margin: 32px auto;
+  overflow: hidden;
+}
+
+.repohead {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 16px;
+  h1 {
+    position: relative;    
+    max-width: 635px;
+    padding-left: 18px;
+    font-size: 18px;
+    line-height: 26px;
+    color: #586069;
+    font-weight: 400;
+  }
+  a {
+    color: #0366d6;
+    text-decoration: none;
+    background-color: initial;
+  }
+  .path-divider {
+    margin: 0 .25em;
+  }
+}
+
+.tree-container {
+  margin-bottom: 10px;
+  border: 1px solid #dfe2e5;
+  border-top: 0;
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+  .hide-file-icon {
+    margin-left: 16px;
+  }
+}
+
+.commit-tease {
+  position: relative;
+  padding: 10px;
+  margin-bottom: -1px;
+  font-size: 13px;
+  line-height: 20px;
+  height: 43px;
+  color: #586069;
+  background-color: #f1f8ff;
+  border: 1px solid #c8e1ff;
+}
+
+.title-name {
+  width: 256px;
+  display: inline-block;
+  text-overflow: ellipsis;
+}
+
+.title-size {
+  font-size: 12px;
+}

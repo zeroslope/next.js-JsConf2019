@@ -1,0 +1,386 @@
+[
+  {
+    "name": ".circleci",
+    "path": ".circleci",
+    "sha": "44df55eaf049505ba4674f020ed0d3e2261b8b27",
+    "size": 0,
+    "url": "https://api.github.com/repos/zeit/next.js/contents/.circleci?ref=canary",
+    "html_url": "https://github.com/zeit/next.js/tree/canary/.circleci",
+    "git_url": "https://api.github.com/repos/zeit/next.js/git/trees/44df55eaf049505ba4674f020ed0d3e2261b8b27",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/zeit/next.js/contents/.circleci?ref=canary",
+      "git": "https://api.github.com/repos/zeit/next.js/git/trees/44df55eaf049505ba4674f020ed0d3e2261b8b27",
+      "html": "https://github.com/zeit/next.js/tree/canary/.circleci"
+    }
+  },
+  {
+    "name": ".github",
+    "path": ".github",
+    "sha": "6048ad0e0589d42dc3c8be741a74668f2da0ccab",
+    "size": 0,
+    "url": "https://api.github.com/repos/zeit/next.js/contents/.github?ref=canary",
+    "html_url": "https://github.com/zeit/next.js/tree/canary/.github",
+    "git_url": "https://api.github.com/repos/zeit/next.js/git/trees/6048ad0e0589d42dc3c8be741a74668f2da0ccab",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/zeit/next.js/contents/.github?ref=canary",
+      "git": "https://api.github.com/repos/zeit/next.js/git/trees/6048ad0e0589d42dc3c8be741a74668f2da0ccab",
+      "html": "https://github.com/zeit/next.js/tree/canary/.github"
+    }
+  },
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "774d9ab5fa0a69fbed7a2582fb393135aac42624",
+    "size": 287,
+    "url": "https://api.github.com/repos/zeit/next.js/contents/.gitignore?ref=canary",
+    "html_url": "https://github.com/zeit/next.js/blob/canary/.gitignore",
+    "git_url": "https://api.github.com/repos/zeit/next.js/git/blobs/774d9ab5fa0a69fbed7a2582fb393135aac42624",
+    "download_url": "https://raw.githubusercontent.com/zeit/next.js/canary/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zeit/next.js/contents/.gitignore?ref=canary",
+      "git": "https://api.github.com/repos/zeit/next.js/git/blobs/774d9ab5fa0a69fbed7a2582fb393135aac42624",
+      "html": "https://github.com/zeit/next.js/blob/canary/.gitignore"
+    }
+  },
+  {
+    "name": ".npmrc",
+    "path": ".npmrc",
+    "sha": "d1504dcdecbad0eca481ae9213172d88a7674cb1",
+    "size": 40,
+    "url": "https://api.github.com/repos/zeit/next.js/contents/.npmrc?ref=canary",
+    "html_url": "https://github.com/zeit/next.js/blob/canary/.npmrc",
+    "git_url": "https://api.github.com/repos/zeit/next.js/git/blobs/d1504dcdecbad0eca481ae9213172d88a7674cb1",
+    "download_url": "https://raw.githubusercontent.com/zeit/next.js/canary/.npmrc",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zeit/next.js/contents/.npmrc?ref=canary",
+      "git": "https://api.github.com/repos/zeit/next.js/git/blobs/d1504dcdecbad0eca481ae9213172d88a7674cb1",
+      "html": "https://github.com/zeit/next.js/blob/canary/.npmrc"
+    }
+  },
+  {
+    "name": ".prettierignore",
+    "path": ".prettierignore",
+    "sha": "5c51653d42d7c7fd913a8ae4f64dd86a0f75ebeb",
+    "size": 48,
+    "url": "https://api.github.com/repos/zeit/next.js/contents/.prettierignore?ref=canary",
+    "html_url": "https://github.com/zeit/next.js/blob/canary/.prettierignore",
+    "git_url": "https://api.github.com/repos/zeit/next.js/git/blobs/5c51653d42d7c7fd913a8ae4f64dd86a0f75ebeb",
+    "download_url": "https://raw.githubusercontent.com/zeit/next.js/canary/.prettierignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zeit/next.js/contents/.prettierignore?ref=canary",
+      "git": "https://api.github.com/repos/zeit/next.js/git/blobs/5c51653d42d7c7fd913a8ae4f64dd86a0f75ebeb",
+      "html": "https://github.com/zeit/next.js/blob/canary/.prettierignore"
+    }
+  },
+  {
+    "name": ".prettierrc.json",
+    "path": ".prettierrc.json",
+    "sha": "0b4951088a670785b41b5b4e2eb97b187f82d0a1",
+    "size": 69,
+    "url": "https://api.github.com/repos/zeit/next.js/contents/.prettierrc.json?ref=canary",
+    "html_url": "https://github.com/zeit/next.js/blob/canary/.prettierrc.json",
+    "git_url": "https://api.github.com/repos/zeit/next.js/git/blobs/0b4951088a670785b41b5b4e2eb97b187f82d0a1",
+    "download_url": "https://raw.githubusercontent.com/zeit/next.js/canary/.prettierrc.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zeit/next.js/contents/.prettierrc.json?ref=canary",
+      "git": "https://api.github.com/repos/zeit/next.js/git/blobs/0b4951088a670785b41b5b4e2eb97b187f82d0a1",
+      "html": "https://github.com/zeit/next.js/blob/canary/.prettierrc.json"
+    }
+  },
+  {
+    "name": "CODE_OF_CONDUCT.md",
+    "path": "CODE_OF_CONDUCT.md",
+    "sha": "f264ef949da5578f8d6033b29e2154a0ec0f2ad6",
+    "size": 3233,
+    "url": "https://api.github.com/repos/zeit/next.js/contents/CODE_OF_CONDUCT.md?ref=canary",
+    "html_url": "https://github.com/zeit/next.js/blob/canary/CODE_OF_CONDUCT.md",
+    "git_url": "https://api.github.com/repos/zeit/next.js/git/blobs/f264ef949da5578f8d6033b29e2154a0ec0f2ad6",
+    "download_url": "https://raw.githubusercontent.com/zeit/next.js/canary/CODE_OF_CONDUCT.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zeit/next.js/contents/CODE_OF_CONDUCT.md?ref=canary",
+      "git": "https://api.github.com/repos/zeit/next.js/git/blobs/f264ef949da5578f8d6033b29e2154a0ec0f2ad6",
+      "html": "https://github.com/zeit/next.js/blob/canary/CODE_OF_CONDUCT.md"
+    }
+  },
+  {
+    "name": "README-zh-CN.md",
+    "path": "README-zh-CN.md",
+    "sha": "9061ab8bb36775ccf9e6b0ae517af2387e3ce823",
+    "size": 66851,
+    "url": "https://api.github.com/repos/zeit/next.js/contents/README-zh-CN.md?ref=canary",
+    "html_url": "https://github.com/zeit/next.js/blob/canary/README-zh-CN.md",
+    "git_url": "https://api.github.com/repos/zeit/next.js/git/blobs/9061ab8bb36775ccf9e6b0ae517af2387e3ce823",
+    "download_url": "https://raw.githubusercontent.com/zeit/next.js/canary/README-zh-CN.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zeit/next.js/contents/README-zh-CN.md?ref=canary",
+      "git": "https://api.github.com/repos/zeit/next.js/git/blobs/9061ab8bb36775ccf9e6b0ae517af2387e3ce823",
+      "html": "https://github.com/zeit/next.js/blob/canary/README-zh-CN.md"
+    }
+  },
+  {
+    "name": "UPGRADING.md",
+    "path": "UPGRADING.md",
+    "sha": "458bc5783e5d076e1073aacad2a85dd788e496c2",
+    "size": 6097,
+    "url": "https://api.github.com/repos/zeit/next.js/contents/UPGRADING.md?ref=canary",
+    "html_url": "https://github.com/zeit/next.js/blob/canary/UPGRADING.md",
+    "git_url": "https://api.github.com/repos/zeit/next.js/git/blobs/458bc5783e5d076e1073aacad2a85dd788e496c2",
+    "download_url": "https://raw.githubusercontent.com/zeit/next.js/canary/UPGRADING.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zeit/next.js/contents/UPGRADING.md?ref=canary",
+      "git": "https://api.github.com/repos/zeit/next.js/git/blobs/458bc5783e5d076e1073aacad2a85dd788e496c2",
+      "html": "https://github.com/zeit/next.js/blob/canary/UPGRADING.md"
+    }
+  },
+  {
+    "name": "azure-pipelines.yml",
+    "path": "azure-pipelines.yml",
+    "sha": "222811468ab8e6626212fe80afe7ae95d88966e0",
+    "size": 995,
+    "url": "https://api.github.com/repos/zeit/next.js/contents/azure-pipelines.yml?ref=canary",
+    "html_url": "https://github.com/zeit/next.js/blob/canary/azure-pipelines.yml",
+    "git_url": "https://api.github.com/repos/zeit/next.js/git/blobs/222811468ab8e6626212fe80afe7ae95d88966e0",
+    "download_url": "https://raw.githubusercontent.com/zeit/next.js/canary/azure-pipelines.yml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zeit/next.js/contents/azure-pipelines.yml?ref=canary",
+      "git": "https://api.github.com/repos/zeit/next.js/git/blobs/222811468ab8e6626212fe80afe7ae95d88966e0",
+      "html": "https://github.com/zeit/next.js/blob/canary/azure-pipelines.yml"
+    }
+  },
+  {
+    "name": "bench",
+    "path": "bench",
+    "sha": "e94fd2d8a8f536721b39e6bff93e06e91f161165",
+    "size": 0,
+    "url": "https://api.github.com/repos/zeit/next.js/contents/bench?ref=canary",
+    "html_url": "https://github.com/zeit/next.js/tree/canary/bench",
+    "git_url": "https://api.github.com/repos/zeit/next.js/git/trees/e94fd2d8a8f536721b39e6bff93e06e91f161165",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/zeit/next.js/contents/bench?ref=canary",
+      "git": "https://api.github.com/repos/zeit/next.js/git/trees/e94fd2d8a8f536721b39e6bff93e06e91f161165",
+      "html": "https://github.com/zeit/next.js/tree/canary/bench"
+    }
+  },
+  {
+    "name": "contributing.md",
+    "path": "contributing.md",
+    "sha": "5d1c8eecf99bb16ba903cd1d6df4cfac64df387f",
+    "size": 2582,
+    "url": "https://api.github.com/repos/zeit/next.js/contents/contributing.md?ref=canary",
+    "html_url": "https://github.com/zeit/next.js/blob/canary/contributing.md",
+    "git_url": "https://api.github.com/repos/zeit/next.js/git/blobs/5d1c8eecf99bb16ba903cd1d6df4cfac64df387f",
+    "download_url": "https://raw.githubusercontent.com/zeit/next.js/canary/contributing.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zeit/next.js/contents/contributing.md?ref=canary",
+      "git": "https://api.github.com/repos/zeit/next.js/git/blobs/5d1c8eecf99bb16ba903cd1d6df4cfac64df387f",
+      "html": "https://github.com/zeit/next.js/blob/canary/contributing.md"
+    }
+  },
+  {
+    "name": "errors",
+    "path": "errors",
+    "sha": "6e200ea9582c13c06115c8319ccccf5b8e2842d5",
+    "size": 0,
+    "url": "https://api.github.com/repos/zeit/next.js/contents/errors?ref=canary",
+    "html_url": "https://github.com/zeit/next.js/tree/canary/errors",
+    "git_url": "https://api.github.com/repos/zeit/next.js/git/trees/6e200ea9582c13c06115c8319ccccf5b8e2842d5",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/zeit/next.js/contents/errors?ref=canary",
+      "git": "https://api.github.com/repos/zeit/next.js/git/trees/6e200ea9582c13c06115c8319ccccf5b8e2842d5",
+      "html": "https://github.com/zeit/next.js/tree/canary/errors"
+    }
+  },
+  {
+    "name": "examples",
+    "path": "examples",
+    "sha": "291bbc9817c54bbe3ce9447fd4e4ac27fb0a18db",
+    "size": 0,
+    "url": "https://api.github.com/repos/zeit/next.js/contents/examples?ref=canary",
+    "html_url": "https://github.com/zeit/next.js/tree/canary/examples",
+    "git_url": "https://api.github.com/repos/zeit/next.js/git/trees/291bbc9817c54bbe3ce9447fd4e4ac27fb0a18db",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/zeit/next.js/contents/examples?ref=canary",
+      "git": "https://api.github.com/repos/zeit/next.js/git/trees/291bbc9817c54bbe3ce9447fd4e4ac27fb0a18db",
+      "html": "https://github.com/zeit/next.js/tree/canary/examples"
+    }
+  },
+  {
+    "name": "jest.config.js",
+    "path": "jest.config.js",
+    "sha": "97d563e35360674754027ea97cf1290facf7116c",
+    "size": 305,
+    "url": "https://api.github.com/repos/zeit/next.js/contents/jest.config.js?ref=canary",
+    "html_url": "https://github.com/zeit/next.js/blob/canary/jest.config.js",
+    "git_url": "https://api.github.com/repos/zeit/next.js/git/blobs/97d563e35360674754027ea97cf1290facf7116c",
+    "download_url": "https://raw.githubusercontent.com/zeit/next.js/canary/jest.config.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zeit/next.js/contents/jest.config.js?ref=canary",
+      "git": "https://api.github.com/repos/zeit/next.js/git/blobs/97d563e35360674754027ea97cf1290facf7116c",
+      "html": "https://github.com/zeit/next.js/blob/canary/jest.config.js"
+    }
+  },
+  {
+    "name": "lerna.json",
+    "path": "lerna.json",
+    "sha": "c88f6b44e0003cadb1ece64da632f8a05b0356c7",
+    "size": 348,
+    "url": "https://api.github.com/repos/zeit/next.js/contents/lerna.json?ref=canary",
+    "html_url": "https://github.com/zeit/next.js/blob/canary/lerna.json",
+    "git_url": "https://api.github.com/repos/zeit/next.js/git/blobs/c88f6b44e0003cadb1ece64da632f8a05b0356c7",
+    "download_url": "https://raw.githubusercontent.com/zeit/next.js/canary/lerna.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zeit/next.js/contents/lerna.json?ref=canary",
+      "git": "https://api.github.com/repos/zeit/next.js/git/blobs/c88f6b44e0003cadb1ece64da632f8a05b0356c7",
+      "html": "https://github.com/zeit/next.js/blob/canary/lerna.json"
+    }
+  },
+  {
+    "name": "license.md",
+    "path": "license.md",
+    "sha": "4a8b342e16a876b9fe73ae8643737dadeed05ce5",
+    "size": 1085,
+    "url": "https://api.github.com/repos/zeit/next.js/contents/license.md?ref=canary",
+    "html_url": "https://github.com/zeit/next.js/blob/canary/license.md",
+    "git_url": "https://api.github.com/repos/zeit/next.js/git/blobs/4a8b342e16a876b9fe73ae8643737dadeed05ce5",
+    "download_url": "https://raw.githubusercontent.com/zeit/next.js/canary/license.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zeit/next.js/contents/license.md?ref=canary",
+      "git": "https://api.github.com/repos/zeit/next.js/git/blobs/4a8b342e16a876b9fe73ae8643737dadeed05ce5",
+      "html": "https://github.com/zeit/next.js/blob/canary/license.md"
+    }
+  },
+  {
+    "name": "linkfolder",
+    "path": "linkfolder",
+    "sha": "47da3b84f85b9d24ad98a50108961ded206e0e65",
+    "size": 7,
+    "url": "https://api.github.com/repos/zeit/next.js/contents/linkfolder?ref=canary",
+    "html_url": "https://github.com/zeit/next.js/blob/canary/linkfolder",
+    "git_url": "https://api.github.com/repos/zeit/next.js/git/blobs/47da3b84f85b9d24ad98a50108961ded206e0e65",
+    "download_url": "https://raw.githubusercontent.com/zeit/next.js/canary/linkfolder",
+    "type": "symlink",
+    "_links": {
+      "self": "https://api.github.com/repos/zeit/next.js/contents/linkfolder?ref=canary",
+      "git": "https://api.github.com/repos/zeit/next.js/git/blobs/47da3b84f85b9d24ad98a50108961ded206e0e65",
+      "html": "https://github.com/zeit/next.js/blob/canary/linkfolder"
+    }
+  },
+  {
+    "name": "package.json",
+    "path": "package.json",
+    "sha": "694150bf0ca97b8296d92974b28cbfdb994781a0",
+    "size": 3929,
+    "url": "https://api.github.com/repos/zeit/next.js/contents/package.json?ref=canary",
+    "html_url": "https://github.com/zeit/next.js/blob/canary/package.json",
+    "git_url": "https://api.github.com/repos/zeit/next.js/git/blobs/694150bf0ca97b8296d92974b28cbfdb994781a0",
+    "download_url": "https://raw.githubusercontent.com/zeit/next.js/canary/package.json",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zeit/next.js/contents/package.json?ref=canary",
+      "git": "https://api.github.com/repos/zeit/next.js/git/blobs/694150bf0ca97b8296d92974b28cbfdb994781a0",
+      "html": "https://github.com/zeit/next.js/blob/canary/package.json"
+    }
+  },
+  {
+    "name": "packages",
+    "path": "packages",
+    "sha": "0827745109127eb1ad541cf5bfb557599a32567b",
+    "size": 0,
+    "url": "https://api.github.com/repos/zeit/next.js/contents/packages?ref=canary",
+    "html_url": "https://github.com/zeit/next.js/tree/canary/packages",
+    "git_url": "https://api.github.com/repos/zeit/next.js/git/trees/0827745109127eb1ad541cf5bfb557599a32567b",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/zeit/next.js/contents/packages?ref=canary",
+      "git": "https://api.github.com/repos/zeit/next.js/git/trees/0827745109127eb1ad541cf5bfb557599a32567b",
+      "html": "https://github.com/zeit/next.js/tree/canary/packages"
+    }
+  },
+  {
+    "name": "readme.md",
+    "path": "readme.md",
+    "sha": "29e4f3032d3dd24eb12f0381e288e4dc033e0845",
+    "size": 23,
+    "url": "https://api.github.com/repos/zeit/next.js/contents/readme.md?ref=canary",
+    "html_url": "https://github.com/zeit/next.js/blob/canary/readme.md",
+    "git_url": "https://api.github.com/repos/zeit/next.js/git/blobs/29e4f3032d3dd24eb12f0381e288e4dc033e0845",
+    "download_url": "https://raw.githubusercontent.com/zeit/next.js/canary/readme.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zeit/next.js/contents/readme.md?ref=canary",
+      "git": "https://api.github.com/repos/zeit/next.js/git/blobs/29e4f3032d3dd24eb12f0381e288e4dc033e0845",
+      "html": "https://github.com/zeit/next.js/blob/canary/readme.md"
+    }
+  },
+  {
+    "name": "run-tests.js",
+    "path": "run-tests.js",
+    "sha": "0f5e4084c256223ea395184dde8208ff2f2251d2",
+    "size": 3061,
+    "url": "https://api.github.com/repos/zeit/next.js/contents/run-tests.js?ref=canary",
+    "html_url": "https://github.com/zeit/next.js/blob/canary/run-tests.js",
+    "git_url": "https://api.github.com/repos/zeit/next.js/git/blobs/0f5e4084c256223ea395184dde8208ff2f2251d2",
+    "download_url": "https://raw.githubusercontent.com/zeit/next.js/canary/run-tests.js",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zeit/next.js/contents/run-tests.js?ref=canary",
+      "git": "https://api.github.com/repos/zeit/next.js/git/blobs/0f5e4084c256223ea395184dde8208ff2f2251d2",
+      "html": "https://github.com/zeit/next.js/blob/canary/run-tests.js"
+    }
+  },
+  {
+    "name": "test",
+    "path": "test",
+    "sha": "da62327c607f84ee26ce76484d59c46a1cfeef6f",
+    "size": 0,
+    "url": "https://api.github.com/repos/zeit/next.js/contents/test?ref=canary",
+    "html_url": "https://github.com/zeit/next.js/tree/canary/test",
+    "git_url": "https://api.github.com/repos/zeit/next.js/git/trees/da62327c607f84ee26ce76484d59c46a1cfeef6f",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/zeit/next.js/contents/test?ref=canary",
+      "git": "https://api.github.com/repos/zeit/next.js/git/trees/da62327c607f84ee26ce76484d59c46a1cfeef6f",
+      "html": "https://github.com/zeit/next.js/tree/canary/test"
+    }
+  },
+  {
+    "name": "yarn.lock",
+    "path": "yarn.lock",
+    "sha": "0aa7a245f4681fb8ecd91490f8483da76bee4401",
+    "size": 637434,
+    "url": "https://api.github.com/repos/zeit/next.js/contents/yarn.lock?ref=canary",
+    "html_url": "https://github.com/zeit/next.js/blob/canary/yarn.lock",
+    "git_url": "https://api.github.com/repos/zeit/next.js/git/blobs/0aa7a245f4681fb8ecd91490f8483da76bee4401",
+    "download_url": "https://raw.githubusercontent.com/zeit/next.js/canary/yarn.lock",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/zeit/next.js/contents/yarn.lock?ref=canary",
+      "git": "https://api.github.com/repos/zeit/next.js/git/blobs/0aa7a245f4681fb8ecd91490f8483da76bee4401",
+      "html": "https://github.com/zeit/next.js/blob/canary/yarn.lock"
+    }
+  }
+]
